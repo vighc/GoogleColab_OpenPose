@@ -1,7 +1,7 @@
 # GoogleColab_OpenPose
 OpenPose Position Detection Using Google Colab
 
-![](Images/output.jpg)
+![](output.jpg)
 
 Step 1 : Take time to Build the OpenPose model
 
