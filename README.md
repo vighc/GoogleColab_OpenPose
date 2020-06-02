@@ -11,5 +11,5 @@ Step 3 : Paste the ID of a YouTube Video
 
 Step 4 : Run the Program 
 
-![](output.jpg)
+![](output.gif)
     
